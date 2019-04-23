@@ -1,0 +1,13 @@
+body{
+  text-align: center;
+  background-color: white;
+  border: hidden;
+}
+
+@media only screen and (max-width: 767px) {
+  body{
+    text-align: center;
+    background-color: white;
+    border: hidden;
+  }
+}
