@@ -4,6 +4,7 @@ body{
   border: hidden;
   margin: 0 auto;
 }
+
 section{
   display: grid;
   background-color: grey;
