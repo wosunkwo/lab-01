@@ -9,4 +9,6 @@ section{
   display: grid;
   background-color: grey;
   margin: 0 auto;
+  margin-top: 3%;
+  width: 90%;
 }

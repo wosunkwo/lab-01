@@ -1,6 +1,6 @@
   section {
     grid-template-rows: 75px 150px 125px 125px 250px 250px 80px; 
-    grid-template-columns: 240px 240px;
+    grid-template-columns: 50% 50%;
     max-width: 480px;
   }
   div:nth-child(1) {
@@ -99,7 +99,7 @@
 @media only screen and (min-width: 550px) {
   section {
     grid-template-rows: 75px 150px 125px 125px 250px 250px 80px; 
-    grid-template-columns: 240px 240px;
+    grid-template-columns: 50% 50%;
     max-width: 480px;
   }
   div:nth-child(1) {
@@ -198,7 +198,8 @@
 @media only screen and (min-width: 768px) {
   section {
     grid-template-rows: 100px 200px 250px 150px;
-    grid-template-columns: 200px 190px 190px 190px 190px;
+    /* grid-template-columns: 200px 190px 190px 190px 190px; */
+    grid-template-columns: 20.83% 19.79% 19.79% 19.79% 19.79%;
     max-width: 960px;
   }
   div:nth-child(1) {
